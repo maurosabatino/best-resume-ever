@@ -1,8 +1,8 @@
 /* #*/ export const PERSON = `
 name:
-  first: John
+  first: Mauro
   middle:
-  last: Doe
+  last: Sabatino
 about: Hi, my name is John Doe. I"m just about the most boring type of person you could
        possibly imagine. I like collecting leaves from the tree in my back yard and documenting
        each time I eat a peanut that is non-uniform. I am not a robot. Please hire me.
@@ -10,24 +10,35 @@ position: Software Developer
 
 birth:
   year: 1990
-  location: New York
+  location: Torino,Italy
 
 experience:
-- company: Company A
-  position: Developer
-  timeperiod: since January 2016
-  description: Programming and watching cute cat videos.
-  website: https://example.com
+- company: Intesa Sanpaolo
+  position: IT Mobile Apllication Specialist
+  timeperiod: since October 2018
+  description: IT analyst for mobile native app (IOS/Android) for digital payments
+  website: https://www.intesasanpaolo.com/it/business/prodotti/prodotti-per-imprese-gestione-incassi-e-pagamenti/pos/bancomat-pay-xme-commerce.html
 
-- company: Company B
-  position: Frontend Developer
-  timeperiod: January 2015 - December 2015
-  description: Fulfillment of extremely important tasks.
+- company: Intesa Sanpaolo
+  position: Open Banking Developer
+  timeperiod: July 2017 - October 2018
+  description: IT developer & analyst for Open Banking & PSD2 Api
+  website: https://openbanking.intesasanpaolo.com/#/
 
-- company: Company C
-  position: Trainee
-  timeperiod: March 2014 - December 2014
-  description: Making coffee and baking cookies.
+- company: Intesa Sanpaolo
+  position: IT Application Analyst
+  timeperiod: January 2017 - July 2017
+  description: IT Analyst in Core Banking Area - Payment Application
+
+- company: Intesa Sanpaolo
+  position: IT Application Analyst
+  timeperiod: May 2016 - December 2016
+  description: IT Analyst in Core Banking Area - Account Application
+
+- company: GFT
+  position: Front End Developer
+  timeperiod: October 2015 - May 2016
+  description: Angular js developer in CRM Application area of Intesa Sanpaolo
 
 education:
 - degree: Master of Arts
@@ -81,12 +92,13 @@ contributions:
   url: https://github.com/salomonelli/best-resume-ever
 
 contact:
-  email: john.doe@email.com
-  phone: 0123 456789
-  street: 1234 Broadway
-  city: New York
-  website: johndoe.com
-  github: johnyD
+  email: maurosabatino@gmail.com 
+  phone: (+39) 345 4839162
+  street: via Tiziano 14, Torino
+  city: Torino, Italia
+  website: https://maurosabatino.com
+  github: maurosabatino
+  linkedin: maurosabatino
 # en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el, nb-no
-lang: en
+lang: it
 `
